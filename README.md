@@ -1,4 +1,4 @@
-# Machine Learning with Python - From Linear Models to Deep Learning
+# Sentiment Analysis - Coding Classification algorithms from scratch
 
 This project is part of the "Machine Learning with Python - From Linear Models to Deep Learning" course offered by MIT.
 
