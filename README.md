@@ -54,3 +54,4 @@ predictions = classify(new_feature_matrix, theta, theta_0)
 # Compute classifier accuracy
 train_accuracy, val_accuracy = classifier_accuracy(perceptron, train_feature_matrix, val_feature_matrix,
                                                    train_labels, val_labels, T=10)
+```
